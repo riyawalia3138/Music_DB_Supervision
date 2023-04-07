@@ -1,4 +1,3 @@
-# urls.py at the app level
 from django.urls import path
 from . import views
 from .views import serve_file
