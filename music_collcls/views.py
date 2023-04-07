@@ -321,4 +321,3 @@ def import_exercise_tracks():
             ysnAtG=row[16],
         )
         exercise_track.save()
-
